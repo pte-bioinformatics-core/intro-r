@@ -1,5 +1,5 @@
-# intro-r
-Introduction to R, RStudio, git
+# Introduction to R, RStudio, git
+
 Please download and install the following softwares:  
 
 [git](https://git-scm.com/)  
