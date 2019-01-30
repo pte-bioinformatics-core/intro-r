@@ -8,4 +8,4 @@ Please download and install the following softwares:
 
 Please registar at github:
 
-(Github registeration)[https://github.com/]
+[Github registeration](https://github.com/)
