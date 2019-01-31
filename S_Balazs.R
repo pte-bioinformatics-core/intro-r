@@ -11,3 +11,6 @@ filter(gapminder, lifeExp == min(lifeExp))
 
 x <- filter(gapminder, lifeExp > 60 , gdpPercap < 7000)       
 y <- filter(gapminder, lifeExp > 60 | gdpPercap < 7000)       
+
+
+check
