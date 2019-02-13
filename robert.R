@@ -33,7 +33,7 @@ filter(gapminder, lifeExp > 60 & gdp < 7000)
 filter(gapminder, lifeExp > 60 | gdp < 7000)
 
 
-
+library(data.table)
 
 
 
